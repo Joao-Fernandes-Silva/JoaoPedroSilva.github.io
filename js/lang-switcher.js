@@ -17,7 +17,7 @@ const translations = {
     hero_subtext: "Full-Stack Web Developer",
     hero_headline: "Building scalable web applications",
     about_title: "About Me",
-    about_intro: "Hello, I'm Joao Pedro Fernandes Silva, a Full-Stack Developer that gives life to websites. I'm specialized in HTML, CSS using Tailwind and DaisyUI, JavaScript, PHP and Laravel framework, SQL and REST APIs.",
+    about_intro: "Hello! I'm João Pedro Fernandes Silva, a Full-Stack Developer looking to bring websites to life. I’m knowledgeable in HTML, CSS (Tailwind & DaisyUI), JavaScript, PHP (& Laravel. I’m also handy with SQL and REST APIs!",
 
     // Resume Sections
     resume_title: "Resume",
@@ -98,7 +98,7 @@ const translations = {
     hero_subtext: "Desenvolvedor Web Full-Stack",
     hero_headline: "A criar aplicações web escaláveis",
     about_title: "Sobre Mim",
-    about_intro: "Olá, o meu nome é Joao Pedro Fernandes Silva e sou um Desenvolvedor Full-Stack que traz vida a websites. Sou especializado em HTML, CSS utilizando Tailwind e DaisyUI, JavaScript, PHP e a framework Laravel, SQL e REST APIs.",
+    about_intro: "Olá! Sou o João e sou um full-stack developer à procura de um primeiro trabalho. Especializo-me em HTML, CSS (Tailwind & DaisyUI), Javascript, PHP (& Laravel). Também estou confortável com SQL e REST APIs.",
 
     // Resume Sections
     resume_title: "Currículo",
