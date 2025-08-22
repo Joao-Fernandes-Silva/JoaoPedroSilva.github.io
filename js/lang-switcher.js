@@ -14,10 +14,10 @@ const translations = {
     footer_copyright: "Copyright © Your Website 2023",
 
     // Hero/About
-    hero_subtext: "Full-Stack Web Developer",
-    hero_headline: "Building scalable web applications",
+    hero_subtext: "Versatile Developer & QA Specialist",
+    hero_headline: "Solving challenges in Data, QA, and Development with scripting language expertise",
     about_title: "About Me",
-    about_intro: "Hello! I'm João Pedro Fernandes Silva, a Full-Stack Developer looking to bring websites to life. I’m knowledgeable in HTML, CSS (Tailwind & DaisyUI), JavaScript, PHP (& Laravel. I’m also handy with SQL and REST APIs!",
+    about_intro: "Hi! I'm João Pedro Silva, and I'm a versatile developer with a lot to bring to the Data and QA side of things as well. I'm specialise in scripting languages (JavaScript, TypeScript & Python) and I'm also handy with SQL!",
 
     // Resume Sections
     resume_title: "Resume",
@@ -45,21 +45,24 @@ const translations = {
 
     // Skills
     resume_skills: "Professional Skills",
-    skill_problem_solving: "Problem Solving",
-    skill_teamwork: "Teamwork",
-    skill_technical_communication: "Technical Communication",
-    skill_time_management: "Time Management",
-    skill_agile_methodologies: "Agile Methodologies (Scrum/Kanban)",
-    skill_continuous_learning: "Continuous Adaptation",
+    skill_1: "Frontend",
+    skill_2: "Backend",
+    skill_3: "Fullstack",
+    skill_4: "QA Automation",
+    skill_5: "Data",
+    skill_6: "Problem-Solving",
 
     // Languages
     resume_languages: "Languages",
-    lang_html: "HTML",
-    lang_css: "CSS",
-    lang_javascript: "JavaScript",
-    lang_python: "Python",
-    lang_php: "PHP",
-    lang_sql: "SQL",
+    lang_1: "JavaScript",
+    lang_2: "TypeScript",
+    lang_3: "Python",
+    lang_4: "SQL",
+    lang_5: "HTML",
+    lang_6: "CSS",
+    lang_7: "SQL",
+    lang_8: "HTML",
+    lang_9: "CSS",
 
     // Contact page
     contact_title: "Get in touch",
@@ -126,21 +129,24 @@ const translations = {
 
     // Skills
     resume_skills: "Skills Profissionais",
-    skill_problem_solving: "Resolução de Problemas",
-    skill_teamwork: "Trabalho em Equipa",
-    skill_technical_communication: "Comunicação Técnica",
-    skill_time_management: "Gestão de Tempo",
-    skill_agile_methodologies: "Metodologias Ágeis (Scrum/Kanban)",
-    skill_continuous_learning: "Adaptação Contínua",
+    skill_1: "Frontend",
+    skill_2: "Backend",
+    skill_3: "Fullstack",
+    skill_4: "Automatização QA",
+    skill_5: "Dados",
+    skill_6: "Resolução de problemas",
 
     // Languages
-    resume_languages: "Línguas",
-    lang_html: "HTML",
-    lang_css: "CSS",
-    lang_javascript: "JavaScript",
-    lang_python: "Python",
-    lang_php: "PHP",
-    lang_sql: "SQL",
+    resume_languages: "Linguagens",
+    lang_1: "JavaScript",
+    lang_2: "TypeScript",
+    lang_3: "Python",
+    lang_4: "SQL",
+    lang_5: "HTML",
+    lang_6: "CSS",
+    lang_7: "SQL",
+    lang_8: "HTML",
+    lang_9: "CSS",
 
     // Contact page
     contact_title: "Entre em contacto!",
