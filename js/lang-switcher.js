@@ -60,9 +60,7 @@ const translations = {
     lang_4: "SQL",
     lang_5: "HTML",
     lang_6: "CSS",
-    lang_7: "SQL",
-    lang_8: "HTML",
-    lang_9: "CSS",
+    lang_7: "PHP",
 
     // Contact page
     contact_title: "Get in touch",
@@ -144,9 +142,7 @@ const translations = {
     lang_4: "SQL",
     lang_5: "HTML",
     lang_6: "CSS",
-    lang_7: "SQL",
-    lang_8: "HTML",
-    lang_9: "CSS",
+    lang_7: "PHP",
 
     // Contact page
     contact_title: "Entre em contacto!",
