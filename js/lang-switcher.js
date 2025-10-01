@@ -14,10 +14,10 @@ const translations = {
     footer_copyright: "Copyright © Your Website 2023",
 
     // Hero/About
-    hero_subtext: "Versatile Developer & QA Specialist",
-    hero_headline: "Solving challenges in Data, QA, and Development with scripting language expertise",
+    hero_subtext: "Full Stack Developer and QA Tester",
+    hero_headline: "Solving challenges in Data, QA, and Development",
     about_title: "About Me",
-    about_intro: "Hi! I'm João Pedro Silva, and I'm a versatile developer with a lot to bring to the Data and QA side of things as well. I'm specialise in scripting languages (JavaScript, TypeScript & Python) and I'm also handy with SQL!",
+    about_intro: "Hi! I'm João Pedro Silva and I'm a developer with a lot to bring to the Data and QA side of things as well. I'm specialise in scripting languages (JavaScript, TypeScript & Python) and I'm also handy with SQL!",
 
     // Resume Sections
     resume_title: "Resume",
@@ -35,7 +35,7 @@ const translations = {
     lisboa_cas: "Cascais - Lisbon",
     curso_1: "Technical course equivalent to Level 5 of the National Qualifications Framework;",
     curso_2: "The course covered various areas such as programming, networking, and data management;",
-    curso_3: "Gained versatile skills to start a career in a corporate environment.",
+    curso_3: "Acquired skills to start a career in a corporate environment.",
 
     university: "University of Algarve",
     course: "Biomedical Sciences",
@@ -65,20 +65,6 @@ const translations = {
     // Contact page
     contact_title: "Get in touch",
     contact_subtitle: "Let's work together!",
-    label_full_name: "Full name",
-    feedback_name_required: "A name is required.",
-    label_email_address: "Email address",
-    feedback_email_required: "An email is required.",
-    feedback_email_invalid: "Email is not valid.",
-    label_phone_number: "Phone number",
-    feedback_phone_required: "A phone number is required.",
-    label_message: "Message",
-    feedback_message_required: "A message is required.",
-    success_message: "Form submission successful!",
-    success_instruction: "To activate this form, sign up at",
-    success_link_label: "https://startbootstrap.com/solution/contact-forms",
-    error_message: "Error sending message!",
-    button_submit: "Submit"
   },
 
   pt: {
@@ -147,20 +133,6 @@ const translations = {
     // Contact page
     contact_title: "Entre em contacto!",
     contact_subtitle: "Vamos trabalhar juntos!",
-    label_full_name: "Nome completo",
-    feedback_name_required: "É necessário um nome.",
-    label_email_address: "Endereço de email",
-    feedback_email_required: "É necessário um email.",
-    feedback_email_invalid: "O email não é válido.",
-    label_phone_number: "Número de telefone",
-    feedback_phone_required: "É necessário um número de telefone.",
-    label_message: "Mensagem",
-    feedback_message_required: "É necessária uma mensagem.",
-    success_message: "Formulário enviado com sucesso!",
-    success_instruction: "Para ativar este formulário, inscreva-se em",
-    success_link_label: "https://startbootstrap.com/solution/contact-forms",
-    error_message: "Erro ao enviar a mensagem!",
-    button_submit: "Enviar"
   }
 };
 
