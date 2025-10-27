@@ -11,24 +11,27 @@ const translations = {
     terms: "Terms",
     contact: "Contact",
     footer: "© Joao Silva 2025 — Built with HTML, CSS and JS",
-    footer_copyright: "Copyright © Your Website 2023",
 
     // Hero/About
     hero_subtext: "Full Stack Developer and QA Tester",
-    hero_headline: "Solving challenges in Data, QA, and Development",
+    hero_headline: "Building web applications with modern scripting languages and automated tests",
     about_title: "About Me",
-    about_intro: "Hi! I'm João Pedro Silva and I'm a developer with a lot to bring to the Data and QA side of things as well. I'm specialise in scripting languages (JavaScript, TypeScript & Python) and I'm also handy with SQL!",
+    about_intro: "I'm a Software Developer with experience in full stack development building E-commerce applications, with Stripe payments and live chat. While my professional experience has been with PHP, I am passionate about JavaScript, TypeScript, Python and Linux \nI have strong analytical and problem‑solving skills from Biomedical Sciences and I like to look into the details in software development and quality assurance. I am seeking for a junior developer or QA automation position where I can apply my skills and expand my knowledge.",
 
     // Resume Sections
     resume_title: "Resume",
     resume_experience: "Experience",
-    resume_download: "Download Resume",
     web_dev: "Web Developer",
     lisboa_car: "Carnaxide - Lisbon",
-    estagio_1: "During the internship, I developed web applications using PHP, the Laravel framework, MySQL, Tailwind CSS, and DaisyUI;",
-    estagio_2: "Implemented APIs such as Stripe and GoogleBooks;",
-    estagio_3: "Developed automated tests with the PEST framework;",
-    estagio_4: "Worked on documentation and performed code reviews, followed by a technical presentation to the team.",
+    estagio_1: "Led the design and delivery of a full‑stack library, using Laravel, MySQL and Tailwind/Daisy UI, supporting payments with Stripe and real‑time messaging with a live chat.",
+    estagio_2: "Organized and coordinated project tasks with a teammate and reviewed their code for quality and alignment with the requirements.",
+    estagio_3: "Implemented a secure user authentication system, product listings, cart workflows, and order management.",
+    estagio_4: "Wrote and maintained unit tests with Pest, boosting reliability and enforcing testing practices.",
+    estagio_5: "Added unit testing using Pest for web testing, covering Google Books API, UI, and backend logic.",
+    estagio_6: "Presented the final project demo to senior developers and stakeholders.",
+    estagio_7: "Built a full-stack to-do application using Vue 3 on a Laravel backend with task creation, filtering, and persistence.",
+    estagio_8: "Implemented TypeScript, ESLint, and Prettier with Tailwind class formatting to keep the app clean and consistent.",
+    estagio_9: "Added Pest unit tests for the app’s task logic (create/update/delete/complete) to improve reliability and prevent regressions.",
 
     resume_education: "Education",
     tecnico: "Specialist Technician in Information Systems Programming and Technologies",
@@ -41,18 +44,17 @@ const translations = {
     course: "Biomedical Sciences",
     uni_1: "Attended the Bachelor’s degree in Biomedical Sciences, having completed two full years and 120 ECTS;",
     uni_2: "Acquired analytical skills as well as reading, writing, and technical/academic language usage;",
-    uni_3: "Favorite or notable subjects include Organic Chemistry, Physics, Calculus, Biostatistics, and other medically related courses.",
+    uni_3: "My most notable subjects were Biostatistics, Mathematics, Calculus, Physics and other medically related courses.",
 
     // Skills
     resume_skills: "Professional Skills",
     skill_1: "Frontend",
     skill_2: "Backend",
-    skill_3: "Fullstack",
+    skill_3: "Full-stack",
     skill_4: "QA Automation",
-    skill_5: "Data",
-    skill_6: "Problem-Solving",
+    skill_5: "Data Analysis",
+    skill_6: "Project Lead",
 
-    // Languages
     resume_languages: "Languages",
     lang_1: "JavaScript",
     lang_2: "TypeScript",
@@ -62,7 +64,6 @@ const translations = {
     lang_6: "CSS",
     lang_7: "PHP",
 
-    // Contact page
     contact_title: "Get in touch",
     contact_subtitle: "Let's work together!",
   },
