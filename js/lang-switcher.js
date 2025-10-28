@@ -118,8 +118,8 @@ const translations = {
     skill_2: "Backend",
     skill_3: "Fullstack",
     skill_4: "Automatização QA",
-    skill_5: "Dados",
-    skill_6: "Resolução de problemas",
+    skill_5: "Analise de dados",
+    skill_6: "Planeamento de projetos",
 
     // Languages
     resume_languages: "Linguagens",
